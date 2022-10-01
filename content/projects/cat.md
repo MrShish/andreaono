@@ -1,5 +1,5 @@
 ---
-title: Running dog
+title: Sitting cat
 link: https://www.andreaono.com/
-image: ./dog.jpeg
+image: ./cat.jpeg
 ---

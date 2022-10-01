@@ -12,7 +12,6 @@ pluralizelisttitles = false
 [params]
   author = "Andrea Ono"
   description = "Andrea Ono Portfolio"
-  message = ""
   hideAutoMenu = false
   
   # Pagination options
