@@ -1,3 +1,6 @@
 [submodule "portfolio/themes/showcase"]
 	path = portfolio/themes/showcase
 	url = https://github.com/apvarun/showcase-hugo-theme.git
+[submodule "themes/showcase"]
+	path = themes/showcase
+	url = https://github.com/apvarun/showcase-hugo-theme.git
