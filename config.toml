@@ -16,13 +16,13 @@ pluralizelisttitles = false
   
   # Pagination options
   paginate = 3
-  multipage = true
+  multipage = false
 
   # Dark mode
-  darkMode = true
+  darkMode = false
 
 [[menu.main]]
-  name = "External"
+  name = "Contact"
   url = "https://www.andreaono.com"
 
 [social]

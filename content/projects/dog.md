@@ -1,5 +1,0 @@
----
-title: Running dog
-link: https://www.andreaono.com/
-image: ./dog.jpeg
----
