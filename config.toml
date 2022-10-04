@@ -1,6 +1,6 @@
 baseURL = "https://www.andreaono.com"
 languageCode = "en-us"
-title = "Andrea Onos Portfolio"
+title = "Andrea Ono | Animation and Illustration"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
@@ -11,7 +11,7 @@ pluralizelisttitles = false
 
 [params]
   author = "Andrea Ono"
-  description = "Andrea Ono Portfolio"
+  description = "Andrea Ono | Animation and Illustration"
   hideAutoMenu = false
   
   # Pagination options
@@ -22,11 +22,5 @@ pluralizelisttitles = false
   darkMode = false
 
 [[menu.main]]
-  name = "Contact"
+  name = "About"
   url = "https://www.andreaono.com"
-
-[social]
-  facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
