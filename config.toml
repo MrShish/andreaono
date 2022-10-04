@@ -21,6 +21,3 @@ pluralizelisttitles = false
   # Dark mode
   darkMode = false
 
-[[menu.main]]
-  name = "About"
-  url = "https://www.andreaono.com"
