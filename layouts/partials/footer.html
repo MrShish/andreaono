@@ -90,12 +90,17 @@
       return;
     }
 
-    const isActive = event.target.classList.contains("active");
+    let isActive;
+    if (event) {
+      isActive = event.target.classList.contains("active");
+    }
 
     showAll();
     if (!isActive) {
       hideAll();
-      event.target.classList.add("active");
+      if (event) {
+        event.target.classList.add("active");
+      }
       if (type !== "other") {
         document
           .querySelectorAll(`.${type}`)
@@ -136,6 +141,13 @@
         filterItem.addEventListener("click", (event) => filter(event, type))
       );
   });
+
+
+  if(window.location.hash) {
+    const displaySection = window.location.hash.substring(1).toLowerCase();
+    filter(null, displaySection)
+  }
+
 
   const showAllButton = document.querySelector(`.show-all`)
   if(showAllButton) {

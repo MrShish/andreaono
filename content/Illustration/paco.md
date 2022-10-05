@@ -1,6 +1,14 @@
 ---
-title: Paco
+weight: 5
+title: Summer Memory
 type: Illustration
-link: https://www.andreaono.com/
-image: ./Paco_1080x1080.png
+image: /Paco_1080x1080.png
+link: /illustration/summermemory
+url: /illustration/summermemory
 ---
+
+## Summer Memory
+
+### Client / Ex: Personal project, 2022
+
+Short description of the project 

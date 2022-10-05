@@ -21,3 +21,6 @@ pluralizelisttitles = false
   # Dark mode
   darkMode = false
 
+[[menu.main]]
+  name = "About"
+  url = "/about"

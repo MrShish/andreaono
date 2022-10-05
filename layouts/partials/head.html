@@ -22,19 +22,27 @@
   {{ end }}
 
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;400;600&display=swap');
+
     @font-face {
       font-family: "Bree Serif";
-      src: url("./BreeSerif-Regular.ttf") format("truetype");
+      src: url("/BreeSerif-Regular.ttf") format("truetype");
     }
     @font-face {
       font-family: "PlatNomor";
-      src: url("./PlatNomor-WyVnn.ttf") format("truetype");
+      src: url("/PlatNomor-WyVnn.ttf") format("truetype");
     }
+
     .font-bree {
       font-family: "Bree Serif", serif;
     }
     .font-platnomor {
       font-family: "PlatNomor", serif;
+    }
+    .font-assistant {
+      font-family: "Assistant", serif;
     }
     .hide {
       display: none;
@@ -45,6 +53,27 @@
     }
     .active:hover {
       color: white;
+    }
+
+
+    h2 {
+      font-family: "Assistant", serif;
+      font-size: 33px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    h3 {
+      font-family: "Assistant", serif;
+      font-size: 16px;
+      margin-bottom: 12px;
+      font-weight: 200;
+    }
+    p {
+      font-family: "Assistant", serif;
+      font-size: 24px;
+      margin-bottom: 12px;
+      font-weight: 400;
     }
   </style>
 </head>

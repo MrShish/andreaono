@@ -11,11 +11,11 @@
     <nav
       class="md:ml-auto flex flex-wrap items-center text-base justify-center dark:text-white {{ if .Site.Params.multipage }} multipage {{ end }}"
     >
-      {{ if and (eq .Site.Params.hideAutoMenu false) (eq $.IsNode true ) }}
+      {{ if and (eq .Site.Params.hideAutoMenu false) }}
       {{ range where .Site.Sections ".Params.private" "!=" true }}
       <a
         class="ml-2 px-2 rounded cursor-pointer select-none hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 filter-{{lower .Title}}"
-        href="{{ if .Site.Params.multipage }}{{ .Permalink }}{{ else }}#{{ end }}"
+        href="/{{ if .Site.Params.multipage }}{{ .Permalink }}{{ else }}#{{.Title}}{{ end }}"
         >{{.Title}}</a
       >
       {{ end }}
