@@ -8,6 +8,4 @@ video: /one_more_berry.mp4
 ---
 ## One More Berry
 
-### Client / Ex: Personal project, 2022
-
-Short description of the project 
+### Personal project, 2022

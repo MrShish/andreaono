@@ -10,6 +10,4 @@ video: /dog_video.mp4
 
 ## Happy dog
 
-### Client / Ex: Personal project, 2022
-
-Short description of the project 
+### Personal project, 2022

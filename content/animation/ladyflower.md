@@ -9,6 +9,4 @@ url: animation/flowergirl
 ---
 ## Flower girl
 
-### Client / Ex: Personal project, 2022
-
-Short description of the project 
+### Personal project, 2022

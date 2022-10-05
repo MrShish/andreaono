@@ -10,6 +10,5 @@ url: animation/mushroomtime
 
 ## Mushroom time
 
-### Client / Ex: Personal project, 2022
-
-Short description of the project 
+### Personal project, 2022
+ 

@@ -9,6 +9,5 @@ url: /illustration/summermemory
 
 ## Summer Memory
 
-### Client / Ex: Personal project, 2022
+### Personal project, 2022
 
-Short description of the project 
