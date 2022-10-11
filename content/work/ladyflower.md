@@ -2,7 +2,7 @@
 weight: 4
 title: Flower girl
 link: https://www.andreaono.com/
-type: Animated
+type: Animation
 video: /ladyflower.mp4
 link: animation/flowergirl
 url: animation/flowergirl
