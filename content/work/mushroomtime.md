@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 5
 title: Mushroom Time
 type: Animated Illustration
 link: https://www.andreaono.com/
@@ -11,4 +11,5 @@ url: animation/mushroomtime
 ## Mushroom time
 
 ### Personal project, 2022
- 
+
+Yeah, let’s go to pick some chanterelles! I tried to made a charming character and I am happy with the result. I sketched, colored and animated this piece in Procreate.

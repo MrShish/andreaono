@@ -3,23 +3,26 @@
 <section class="text-gray-700 body-font dark:text-white">
   <div class="container px-5 py-8 mx-auto">
     <div class="flex flex-row">
+      <div class="w-1/2">
     {{ if (.Params.Video) }}
-    <div class="h-86 w-86 overflow-hidden relative basis-1/2" style="width:480px">
-      <video autoplay muted loop id="myVideo" class="object-cover object-center h-full w-full">
-        <source  src="{{ .Params.Video }}" type="video/mp4">
-      </video>
-    </div>
-    {{ else if ( .Params.Image) }}
-    <div class="h-86 w-86 overflow-hidden relative basis-1/2" style="width:480px">
-      <img alt="{{ .Title }}" class="object-cover object-center h-full w-full"
-           src="{{ (or .Params.Image .CurrentSection.Params.Image) }}" />
-    </div>
+        <div class="overflow-hidden relative">
+          <video autoplay muted loop id="myVideo" class="object-cover object-center h-full w-full">
+            <source  src="{{ .Params.Video }}" type="video/mp4">
+          </video>
+        </div>
+        {{ else if ( .Params.Image) }}
+        <div class="overflow-hidden relative">
+          <img alt="{{ .Title }}" class="object-cover object-center h-full w-full"
+               src="{{ (or .Params.Image .CurrentSection.Params.Image) }}" />
+        </div>
       {{ end }}
-
-      <div class="basis-1/2 ml-5">
-        {{ .Content }}
       </div>
+      <div class="w-1/2 grid">
+        <div class="grid ml-20 content-center ">
+          {{ .Content }}
+        </div>
 
+      </div>
     </div>
 
 
