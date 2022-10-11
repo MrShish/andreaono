@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: Mushroom Time
-type: Animated Illustration
+type: Animated
 link: https://www.andreaono.com/
 image: /Mushroom_Time.gif
 fullImage: /Mushroom_Time.gif

@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: Happy Dog
-type: Animated Illustration
+type: Animated
 link: animation/dog
 url: "animation/dog"
 image: /dog_1080x1080.png
