@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 1
 title: Mushroom Time
 type: Animated Illustration
 link: https://www.andreaono.com/

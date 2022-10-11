@@ -13,7 +13,7 @@
         {{ else if ( .Params.Image) }}
         <div class="overflow-hidden relative">
           <img alt="{{ .Title }}" class="object-cover object-center h-full w-full"
-               src="{{ (or .Params.Image .CurrentSection.Params.Image) }}" />
+               src="{{ (or .Params.FullImage .CurrentSection.Params.FullImage) }}" />
         </div>
       {{ end }}
       </div>
