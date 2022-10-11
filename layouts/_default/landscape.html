@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section class="text-gray-700 body-font dark:text-white">
+  <div class="container px-5 py-8 mx-auto">
+      <div class="px-20">
+    {{ if (.Params.Video) }}
+        <div class="overflow-hidden relative">
+          <video autoplay muted loop id="myVideo" class="object-cover object-center h-full w-full">
+            <source  src="{{ .Params.Video }}" type="video/mp4">
+          </video>
+        </div>
+        {{ else if ( .Params.Image) }}
+        <div class="overflow-hidden relative">
+          <img alt="{{ .Title }}" class="object-cover object-center h-full w-full"
+               src="{{ (or .Params.FullImage .CurrentSection.Params.FullImage) }}" />
+        </div>
+      {{ end }}
+      </div>
+      <div class="grid py-10 px-20 content-center ">
+          {{ .Content }}
+      </div>
+    </div>
+</section>
+
+{{ end }}

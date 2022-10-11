@@ -6,6 +6,7 @@ image: /Otorongo_1080x1080.png
 fullImage: /Otorongo_1920x1080.png
 link: /illustration/otorongo
 url: /illustration/otorongo
+layout: landscape
 ---
 
 ## Otorongo
