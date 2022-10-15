@@ -5,6 +5,7 @@ type: Animation
 link: animation/dog
 url: "animation/dog"
 image: /HAPPY_DOG_1080.gif
+fullImage: /HAPPY_DOG_1080.gif
 ---
 
 ## Happy dog

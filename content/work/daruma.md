@@ -8,7 +8,7 @@ link: /illustration/makeawish
 url: /illustration/makeawish
 ---
 
-## Summer Memory
+## Make a wish
 
 ### Personal project, 2022
 

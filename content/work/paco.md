@@ -2,8 +2,8 @@
 weight: 6
 title: Summer Memory
 type: Illustration
-image: /Paco_1080x1080.png
-fullImage: /Paco_1280x960.png
+image: /Paco_square_1080x1080.png
+fullImage: /Paco_0001_1280x960.png
 link: /illustration/summermemory
 url: /illustration/summermemory
 ---
