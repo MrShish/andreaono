@@ -1,11 +1,10 @@
 ---
-weight: 3
+weight: 4
 title: Happy Dog
 type: Animation
 link: animation/dog
 url: "animation/dog"
-image: /dog_1080x1080.png
-video: /dog_video.mp4
+image: /HAPPY_DOG_1080.gif
 ---
 
 ## Happy dog
