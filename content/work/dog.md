@@ -12,4 +12,4 @@ fullImage: /HAPPY_DOG_1080.gif
 
 ### Personal project, 2022
 
-It is clear that I love dogs, right? I wanted to do something fun that brings a smile. This was the result of an online course taught by Catarina Alves y Jonas Nunes. I used Photoshop, Illustrator, After Effects and Cinema 4D.
+It is clear that I love dogs, right? I wanted to do something fun that brings a smile. This is the result of an online course taught by Itsacat y Goodog.tv. I used Photoshop, Illustrator, After Effects and Cinema 4D.
