@@ -12,4 +12,4 @@ fullImage: /HAPPY_DOG_1080.gif
 
 ### Personal project, 2022
 
-It is clear that I love dogs, right? I just wanted to do something fun that brings a smile. I used a limited color palette and did the flip trick in Cinema 4D. For the rest, I used Photoshop, Illustrator and After Effects.
+It is clear that I love dogs, right? I wanted to do something fun that brings a smile. This was the result of an online course taught by Catarina Alves y Jonas Nunes. I used Photoshop, Illustrator, After Effects and Cinema 4D.

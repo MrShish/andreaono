@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 5
 title: Summer Memory
 type: Illustration
 image: /Paco_square_1080x1080.png
