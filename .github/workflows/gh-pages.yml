@@ -22,8 +22,10 @@ jobs:
           # extended: true
 
       - name: Build
-        run: npm install && hugo --minify
-
+        run: | 
+          npm install && hugo -minify
+          touch CNAME
+          echo 'www.andreaono.com' > CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
