@@ -4,6 +4,7 @@ type: Page
 exclude: true
 layout: about
 ---
+
 Hi!
 
 I’m Andrea Ono, a Peruvian communicator living in Sweden and a graduate of Hyper Island as a motion designer. I love my dog Paco (aka Chapo), bold colors, and all kinds of handcrafts.
