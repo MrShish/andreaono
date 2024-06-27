@@ -1,5 +1,6 @@
 {{ define "main" }}
 <section class="text-gray-700 body-font">
+
   <div class="container px-5 mx-auto">
     {{ .Scratch.Set "pages" .Site.Pages }}
     {{ if eq .Site.Params.multipage true }}
@@ -8,5 +9,6 @@
     {{- partial "no-pagination.html" . -}}
     {{ end }}
   </div>
+
 </section>
 {{ end }}
